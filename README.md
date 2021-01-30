@@ -6,3 +6,5 @@ plot4为并列柱形图
 plot5为叠加柱形图
 plot6为普通饼图
 plot7为嵌套饼图
+plot8为三维散点图
+plot9为三维平面图
